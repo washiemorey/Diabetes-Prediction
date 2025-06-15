@@ -4,7 +4,8 @@ Diabetes is often diagnosed too late in Africa,
 leading to complications and early deaths. This project aims to build a lightweight, ML-powered tool that predicts the risk of diabetes early using minimal, 
 easily collected clinical data. The goal is to empower primary healthcare workers to triage patients more effectively.
 
-Obtained the data from kaggle. Here is the [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
+Obtained the data from kaggle.[Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
+
 Features available:
 
 Pregnancies
